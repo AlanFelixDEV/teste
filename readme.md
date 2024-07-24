@@ -4,8 +4,7 @@
 
 # Flutter
 
-Configu
-
+Configuração de um ambiente flutter.
 
 ## Software requirements
 
