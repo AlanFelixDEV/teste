@@ -41,7 +41,7 @@ Adicione uma nova variável.
 
 `FLUTTER_HOME`
 
-![App Screenshot](assets\flutter_home.png)
+![App Screenshot](assets/flutter_home.png)
 
 Agora, adicione a nova variavel a Path.
 
