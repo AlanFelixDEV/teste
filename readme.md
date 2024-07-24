@@ -117,8 +117,8 @@ Todas requisitos devem estar corretos. Caso tenha optado por não desenvolver pa
 
 ## Autor
 
-- [Alan Felix]([https://www.github.com/octokatherine](https://github.com/AlanFelixDEV/)
+- [Alan Felix](https://github.com/AlanFelixDEV/)
 
 ## Referência
 
- - [Flutter]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://docs.flutter.dev/get-started/install)
+ - [Flutter](https://docs.flutter.dev/get-started/install)
