@@ -61,6 +61,21 @@ Acesse o SDK Manager no android studio e instale.
 - **Android SDK Platform-Tools**
 - **Android Emulator**
 
+Acesse o menu no sdk manager SDK Tools
+
+Caso não esteja adicionado, marque:
+
+- Android SDK Command-line Tools
+- CMake (Para desenvolvimento windows caso vá usar)
+
+- Google Play Instant Development SDK
+- Google Licensing Library
+- Google Play service
+- Google USB Driver
+- Google Web Driver
+
+![App Screenshot](assets/sdk_manager_tools.png)
+
 Adicione a variável de ambiente.
 
 `ANDROID_HOME`
