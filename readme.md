@@ -49,7 +49,7 @@ Procure pela variavel Path e clique em editar.
 
 agora adicone ela no final.
 
-![App Screenshot](assets\path_flutter.png)
+![App Screenshot](assets/path_flutter.png)
 
 ## Configuração Android Studio
 
@@ -65,9 +65,9 @@ Adicione a variável de ambiente.
 
 `ANDROID_HOME`
 
-![App Screenshot](assets\android_home.png)
+![App Screenshot](assets/android_home.png)
 
-![App Screenshot](assets\env_android_studio.png)
+![App Screenshot](assets/env_android_studio.png)
 
 Agora, adicione a nova variavel a Path.
 
@@ -75,7 +75,7 @@ Procure pela variavel Path e clique em editar.
 
 agora adicone ela no final.
 
-![App Screenshot](assets\path_android.png)
+![App Screenshot](assets/path_android.png)
 
 ## Android licenses
 
@@ -98,4 +98,4 @@ e aceite todas as licenças e em seguida execute novamente.
 
 Todas requisitos devem estar corretos. Caso tenha optado por não desenvolver para windows a opção de desenvolvimento no comando executado irá estar marcada como errada, mas não é obrigatorio caso não vá utliza-la.
 
-![App Screenshot](assets\no_issue.png)
+![App Screenshot](assets/no_issue.png)
