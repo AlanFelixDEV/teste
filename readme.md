@@ -4,7 +4,7 @@
 
 # Flutter
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
+Configu
 
 
 ## Software requirements
@@ -114,3 +114,11 @@ e aceite todas as licenças e em seguida execute novamente.
 Todas requisitos devem estar corretos. Caso tenha optado por não desenvolver para windows a opção de desenvolvimento no comando executado irá estar marcada como errada, mas não é obrigatorio caso não vá utliza-la.
 
 ![App Screenshot](assets/no_issue.png)
+
+## Autor
+
+- [Alan Felix]([https://www.github.com/octokatherine](https://github.com/AlanFelixDEV/)
+
+## Referência
+
+ - [Flutter]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://docs.flutter.dev/get-started/install)
