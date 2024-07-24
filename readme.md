@@ -61,7 +61,7 @@ Acesse o SDK Manager no android studio e instale.
 - **Android SDK Platform-Tools**
 - **Android Emulator**
 
-Acesse o menu no sdk manager SDK Tools
+Acesse o menu no sdk manager, SDK Tools
 
 Caso não esteja adicionado, marque:
 
