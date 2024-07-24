@@ -114,6 +114,43 @@ Todas requisitos devem estar corretos. Caso tenha optado por não desenvolver pa
 
 ![App Screenshot](assets/no_issue.png)
 
+## Emulador Android
+
+### Dispositivo Fisico
+
+Libere a opção de desenvolvedor no android.
+
+Caso opte por usar um dispositivo fisico para o desenvolvimento,
+conecte o smarthphone via usb, aceite o depurador usb e quando for executar o projeto selecione o dispositivo.
+
+### Dispositivo Emulado
+
+Criação de uma Emulador Android.
+
+Entre na opção Virtual Device Manager.
+
+![App Screenshot](assets/virtual_device_manager.png)
+
+Clique em +
+
+![App Screenshot](assets/lista_de_dispositivos.png)
+
+Selecione o modelo.
+
+![App Screenshot](assets/modelo.png)
+
+Selecione a versão da sdk que deseja.
+
+![App Screenshot](assets/sdk_versao.png)
+
+Caso opte por retirar o template do dispositivo desmarque a opcao Enable device frame.
+
+![App Screenshot](assets/device_frame.png)
+
+Clique em finalizar.
+
+Para abrir o dispitivo clique através da lista de dispositivos no 3 pontinhos e abra por cold boot. (Nesse modo de abertura sempre será iniciado o dispositivo sem cash).
+
 ## Autor
 
 - [Alan Felix](https://github.com/AlanFelixDEV/)
