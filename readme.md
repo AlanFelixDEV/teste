@@ -121,4 +121,5 @@ Todas requisitos devem estar corretos. Caso tenha optado por não desenvolver pa
 
 ## Referência
 
- - [Flutter](https://docs.flutter.dev/get-started/install)
+- [Flutter](https://docs.flutter.dev/get-started/install)
+
